@@ -88,7 +88,7 @@ if(!empty($_SESSION["uname"]) && $_SESSION["role"] == 'user'){
         }
 
         .background {
-            background-image: url(images/a2.png);
+            background-color: #b9b9b9;
             background-size: cover;  /* Ensure the image covers the entire container */
             background-position: center; /* Position the background image centrally */
             background-repeat: no-repeat;  /* Prevent the background from repeating */

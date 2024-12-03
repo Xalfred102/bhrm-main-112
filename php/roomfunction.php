@@ -259,7 +259,7 @@ if (isset($_POST['update'])) {
     }
 
     #add-amenity-btn {
-        background-color: #007bff;
+        background-color: #ffc107;
         color: #fff;
         padding: 8px;
         border: none;
@@ -281,7 +281,7 @@ if (isset($_POST['update'])) {
 
     /* Make both submit and back buttons equally tall */
     .button-container input, .button-container a {
-        background-color: #f0ad4e;
+        background-color: #ffc107;
         color: #fff;
         font-size: 16px;
         padding: 10px;
@@ -298,7 +298,7 @@ if (isset($_POST['update'])) {
     }
 
     a.btn-secondary {
-        background-color: #6c757d;
+        background-color: #343a40;
     }
 
     .button-container input[type="submit"]:hover, a.btn-secondary:hover {
